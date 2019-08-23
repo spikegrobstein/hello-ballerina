@@ -1,3 +1,5 @@
+// run with `ballerina run hello.bal`
+
 import ballerina/io;
 
 public function main() {
